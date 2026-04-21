@@ -1,11 +1,3 @@
-"""
-============================================================
-Retail Store Sales Analysis - Visualizations
-Author: Kanhaiya Thakur
-Description: Bar, Pie, and Line charts using Matplotlib
-============================================================
-"""
-
 import pandas as pd
 import matplotlib
 matplotlib.use("Agg")
