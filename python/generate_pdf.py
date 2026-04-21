@@ -1,8 +1,3 @@
-"""
-Retail Store Sales Analysis - Project Documentation PDF
-Author: Kanhaiya Thakur
-"""
-
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
