@@ -1,11 +1,3 @@
-"""
-============================================================
-Retail Store Sales Analysis - SQL Analysis via SQLite
-Author: Kanhaiya Thakur
-Description: Execute all SQL queries programmatically
-============================================================
-"""
-
 import sqlite3
 import pandas as pd
 import os
