@@ -167,10 +167,8 @@ A complete 7-page PDF report is available at `docs/project_documentation.pdf` in
 ---
 
 ## 👨‍💻 Author
-
-**Kanhaiya Thakur**  
-GitHub: [@Kanhaiyathakur001](https://github.com/Kanhaiyathakur001)  
-Batch: Data Engineering | April 2026
+\
+**Swagatika Barik**  
 
 ---
 
