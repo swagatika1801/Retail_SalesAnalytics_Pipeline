@@ -167,7 +167,7 @@ A complete 7-page PDF report is available at `docs/project_documentation.pdf` in
 ---
 
 ## 👨‍💻 Author
-\
+
 **Swagatika Barik**  
 
 ---
