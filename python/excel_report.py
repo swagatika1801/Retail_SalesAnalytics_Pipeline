@@ -1,12 +1,3 @@
-"""
-============================================================
-Retail Store Sales Analysis - Excel Report Generator
-Author: Kanhaiya Thakur
-Description: Creates full Excel workbook with pivot tables,
-             sorted data, filters, and charts
-============================================================
-"""
-
 import pandas as pd
 import numpy as np
 import os
