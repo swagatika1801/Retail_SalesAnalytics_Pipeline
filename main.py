@@ -1,11 +1,3 @@
-"""
-============================================================
-Retail Store Sales Analysis - Main Runner
-Author: Kanhaiya Thakur
-Run this file to execute the complete analysis pipeline.
-============================================================
-"""
-
 import subprocess
 import sys
 import os
